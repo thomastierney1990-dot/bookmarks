@@ -791,6 +791,8 @@ Artificial Intelligence
   * [ChatDev 2.0 (DevAll): 데이터 시각화부터 게임 개발까지 워크플로우 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%92%A1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94%EB%B6%80%ED%84%B0-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C%EA%B9%8C%EC%A7%80-ChatDev-20-DevAll-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [Code2Video](https://showlab.github.io/Code2Video/)
   * [Code2Video: Video generation via code](https://github.com/showlab/Code2Video)
+* [CoPaw: Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities](https://github.com/agentscope-ai/CoPaw)
+  * 셀프호스팅 개인 AI 어시스턴트. 로컬/클라우드 배포, 다중 채팅 앱 지원, 확장 가능한 기능 구조
 * [cognee: Memory for AI Agents in 6 lines of code](https://github.com/topoteretes/cognee)
   * [Improve your AI infrastructure - AI memory engine](https://www.cognee.ai/)
   * [LLM이 매번 초기화되어 과거 문맥을 잊어버리는 문제도 이제 오픈소스로 해결 가능해졌습니다🚀AI 에이전트 메모리, 이제 6줄의 코드로 충분히 구현할 수 있습니다! 왜냐하면 Cognee Inc.가 "비정형 데이터를 영구적 AI 메모리로 변환하고 벡터+그래프 하이브리드 검색 제공"해주는 오픈소스 메모리 프레임워크, Cognee를 공개했거든요. 셀프 호스팅… | HaYeJin Kang](https://www.linkedin.com/posts/h4y3j1n_llm%EC%9D%B4-%EB%A7%A4%EB%B2%88-%EC%B4%88%EA%B8%B0%ED%99%94%EB%90%98%EC%96%B4-%EA%B3%BC%EA%B1%B0-%EB%AC%B8%EB%A7%A5%EC%9D%84-%EC%9E%8A%EC%96%B4%EB%B2%84%EB%A6%AC%EB%8A%94-%EB%AC%B8%EC%A0%9C%EB%8F%84-%EC%9D%B4%EC%A0%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%ED%95%B4%EA%B2%B0-activity-7397049792792621056-a-O-)
@@ -3089,6 +3091,9 @@ Artificial Intelligence
   * [Claude Code에 최근 작업 내용을 저장하고 불러오는 MEMORY 기능이 생겼습니다 | 정구봉 Goobong Jeong](https://www.linkedin.com/posts/gb-jeong_claude-code%EC%97%90-%EC%B5%9C%EA%B7%BC-%EC%9E%91%EC%97%85-%EB%82%B4%EC%9A%A9%EC%9D%84-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B3%A0-%EB%B6%88%EB%9F%AC%EC%98%A4%EB%8A%94-memory-activity-7433273480298782720-9uoL)
   * [Claude Code 메모리 관리 완전 가이드](https://digitalbourgeois.tistory.com/2816)
     * Auto Memory(패턴 축적)와 CLAUDE.md(규칙 정의)의 차이, .claude/rules 디렉토리를 통한 모듈형 규칙 관리, Path 기반 조건부 규칙 적용, CLAUDE.md Import 기능 설명
+  * [Claude Import Memory](https://claude.com/import-memory)
+    * [Claude, 다른 LLM에서 전환하는 Import Memory 기능 추가 | GeekNews](https://news.hada.io/topic?id=27115)
+    * 다른 AI 서비스의 개인 설정·맥락을 Claude 메모리로 가져오기. 프롬프트 복사·붙여넣기 방식, 모든 유료 요금제 이용 가능, 대화별 프로젝트 맥락 구분 관리
   * [How I Use Claude Code](https://boristane.com/blog/how-i-use-claude-code/)
     * [Claude Code 활용 방식: 계획과 실행의 분리 | GeekNews](https://news.hada.io/topic?id=26907)
     * Cloudflare 엔지니어링 리드의 Claude Code 워크플로우. 리서치→계획→주석 순환→구현 4단계로, 코드 작성 전 research.md와 plan.md로 계획을 검토·승인한 뒤 실행하는 방식
@@ -3102,8 +3107,14 @@ Artificial Intelligence
     * 2,430개 실제 저장소 분석. 20개 카테고리 중 12개에서 커스텀 솔루션 직접 구축. Sonnet 4.5는 기존 도구 선호, Opus 4.6은 최신 기술 선호. Express/Redux/Jest 등 업계 표준이 의외로 비선택
   * [Claude Code: NEW Remote Control, Auto Memory, Plugins & More - YouTube](https://www.youtube.com/watch?v=N-8cVtAl4oI)
     * Claude Code/Cowork 통합 업데이트 요약. Remote Control(폰/웹에서 세션 접근), Scheduled Tasks(반복 워크플로우), 새 플러그인 레포, Auto Memory, Simplify/Batch 스킬 소개
+  * [OAuth2 자동 인증으로 Gmail 자동화 완성: Claude Code MCP 서버 완벽 가이드](https://fornewchallenge.tistory.com/entry/%F0%9F%94%A5-OAuth2-%EC%9E%90%EB%8F%99-%EC%9D%B8%EC%A6%9D%EC%9C%BC%EB%A1%9C-Gmail-%EC%9E%90%EB%8F%99%ED%99%94-%EC%99%84%EC%84%B1-Claude-Code-MCP-%EC%84%9C%EB%B2%84-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+    * Gmail MCP 서버로 이메일 발송/수신/검색/라벨 관리를 자연어로 처리. Google Cloud OAuth 2.0 설정부터 Claude Code 연동, 첨부파일·HTML 이메일·일괄처리까지 실전 가이드
+  * [10 CLI Tools I'm using alongside Claude Code | Starmorph AI - YouTube](https://www.youtube.com/watch?v=3NzCBIcIqD0)
+    * LazyGit(실시간 git 변경 모니터링), Glow(CLI 마크다운 리더), LLM Fit(로컬 하드웨어에 맞는 모델 추천), Models CLI(프로바이더별 가격/벤치마크 비교), Zoxide(퍼지 디렉토리 점프), Btop(시스템 모니터링), eza(ls 대체), Ranger(터미널 파일 탐색기) 등
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
+  * [autonomous-claude-code: Chat with Claude while it works. Get notified when it stops. Discord bridge for autonomous Claude Code sessions](https://github.com/AetherWave-Studio/autonomous-claude-code)
+    * Claude Code 자율 실행 세션에 Discord 브릿지 연결. 작업 중 대화 가능, 중단 시 알림 수신
   * [awesome-agent-skills: Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others](https://github.com/VoltAgent/awesome-agent-skills)
   * [awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
   * [awesome-claude-skills: The awesome collection of Claude Skills and resources.](https://github.com/VoltAgent/awesome-claude-skills)
@@ -3641,9 +3652,12 @@ Artificial Intelligence
   * [OpenClaw (구 Moltbot, 구 Clawdbot) 리뷰(9) : OpenClaw가 똑똑한 이유는 'Pi' 때문? (OpenClaw의 심장, Pi: Self-extending 아키텍처 살펴보기)](https://goddaehee.tistory.com/512)
   * [OpenClaw 윈도우 환경에서 Docker로 AI 에이전트 구축하기 (feat. Discord 연동) - YouTube](https://www.youtube.com/watch?v=FdbUWsqefPQ)
   * [OpenClaw으로 나만의 AI 비서 만들기 - Django Notion Blog](https://ucanlabs.kr/blog/openclaw-install/)
+  * [OpenClaw: A Practical Getting Started Guide for IT Pros | Medium](https://medium.com/@igigis/openclaw-a-practical-getting-started-guide-for-it-pros-a58f0c4eca04)
     * [맥북 아닌 일반 윈도우 노트북에 몰트봇을 깔아봤습니다(a.k.a 오픈클로, 클로드봇) by 최지웅 유캔랩스 대표 - YouTube](https://www.youtube.com/watch?v=FU13ql1h0eo)
       * [윈도우에 몰트봇(오픈클로) 설치: 위험성과 활용법 | AI 업무 자동화 심층 가이드](https://livewiki.com/ko/content/moltbot-windows-install)
   * [10MB 이하 RAM으로 구동하는 초경량 OpenClaw 변형 4종 비교: PicoClaw, ZeroClaw, NanoBot, MimiClaw](https://digitalbourgeois.tistory.com/2783)
+  * [I Found the 5 Best Free Tools for OpenClaw Agents - YouTube](https://www.youtube.com/watch?v=Vfk9dO5Ak3s)
+    * AgentMail, Here Now, Tavily, FireCrawl, Remotio 등 OpenClaw 에이전트와 함께 매일 사용하는 무료 도구 5선
   * [제가 잠든 사이 두 AI 에이전트가 서로의 한계를 인지하고 스스로 협업 프로토콜을 만들어 밤새 코딩을 마쳤습니다 | JAEGYU LEE](https://www.linkedin.com/posts/q00_%EC%A0%9C%EA%B0%80-%EC%9E%A0%EB%93%A0-%EC%82%AC%EC%9D%B4-%EB%91%90-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EA%B0%80-%EC%84%9C%EB%A1%9C%EC%9D%98-%ED%95%9C%EA%B3%84%EB%A5%BC-%EC%9D%B8%EC%A7%80%ED%95%98%EA%B3%A0-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%ED%98%91%EC%97%85-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%84-ugcPost-7431362002440245248-Eyij)
   * [awesome-openclaw-skills: The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot](https://github.com/VoltAgent/awesome-openclaw-skills)
   * [awesome-openclaw-usecases: A community collection of OpenClaw use cases for making life easier](https://github.com/hesamsheikh/awesome-openclaw-usecases) 오픈클로 사례집
