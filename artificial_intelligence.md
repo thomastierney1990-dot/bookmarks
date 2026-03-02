@@ -2433,6 +2433,9 @@ Artificial Intelligence
 # TDD, Test
 * [TC 쓰는 중입니다… 아뇨, AI가요.. 기대 반, 불신 반으로 시작한 실험, 그 결과는…? | by JOBKO_장수진 | Apr, 2025 | jobkorea-tech](https://techblog.jobkorea.co.kr/tc-%EC%93%B0%EB%8A%94-%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%95%84%EB%87%A8-ai%EA%B0%80%EC%9A%94-3ae95f36e5eb)
 * [라포랩스의 QA - 품질을 테스트하는 게 아니라 설계합니다. - 라포랩스 팀블로그](https://blog.rapportlabs.kr/78344)
+* [Tests Are The New Moat](https://saewitz.com/tests-are-the-new-moat)
+  * [테스트 코드가 새로운 해자(Moat)가 되는 시대: AI가 바꾸는 오픈소스 경쟁 전략](https://digitalbourgeois.tistory.com/2817)
+  * AI가 코드 복제를 쉽게 만들면서, 좋은 문서·테스트·API 명세가 오히려 경쟁사에 유리하게 작용. SQLite는 92M 줄의 비공개 테스트로 해자 구축. Cloudflare는 Vercel의 공개 테스트를 활용해 Next.js 대체제를 1주 만에 구축한 사례
 * [Strix - The AI Penetration Testing Agent](https://www.strix.ai/)
   * [strix: Open-source AI agents for penetration testing](https://github.com/usestrix/strix)
 
