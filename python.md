@@ -568,6 +568,9 @@ Python
     4. Pydantic 모델 사용: 데이터와 파라미터 관리를 위해 Pydantic을 도입
     5. Ruff 같은 Linter와 포매터 사용: 코드 품질을 유지하고 오류를 줄이기 위해 Ruff 사용
     6. Pytest로 전환: 더 나은 테스트 관리
+* [Interview with Thomas Wouters](https://gvanrossum.github.io/interviews/Thomas.html)
+  * [토머스 우터스와의 인터뷰 - RosettaLens 번역](https://rosettalens.com/s/ko/interview-with-thomas-wouters)
+  * Guido van Rossum의 Python 커뮤니티 인터뷰 시리즈 첫 번째. Thomas Wouters의 증강 할당 연산자 구현, PSF 이사회, Steering Council, free threading 작업. Python 초기 역사와 커뮤니티 형성 과정에 대한 구술 기록
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
