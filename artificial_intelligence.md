@@ -3111,6 +3111,8 @@ Artificial Intelligence
     * Gmail MCP 서버로 이메일 발송/수신/검색/라벨 관리를 자연어로 처리. Google Cloud OAuth 2.0 설정부터 Claude Code 연동, 첨부파일·HTML 이메일·일괄처리까지 실전 가이드
   * [10 CLI Tools I'm using alongside Claude Code | Starmorph AI - YouTube](https://www.youtube.com/watch?v=3NzCBIcIqD0)
     * LazyGit(실시간 git 변경 모니터링), Glow(CLI 마크다운 리더), LLM Fit(로컬 하드웨어에 맞는 모델 추천), Models CLI(프로바이더별 가격/벤치마크 비교), Zoxide(퍼지 디렉토리 점프), Btop(시스템 모니터링), eza(ls 대체), Ranger(터미널 파일 탐색기) 등
+  * [Claude Code의 컨텍스트 윈도우, 왜 30분이면 바닥나는가 - Context Mode의 원리와 효과](https://www.fullstackfamily.com/@urstory/posts/13992/Claude-Code%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%99%9C-30%EB%B6%84%EC%9D%B4%EB%A9%B4-%EB%B0%94%EB%8B%A5%EB%82%98%EB%8A%94%EA%B0%80-Context-Mode%EC%9D%98-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%9A%A8%EA%B3%BC)
+    * MCP 도구 출력이 컨텍스트에 영구 축적되어 ~30분 후 성능 저하. Context Mode는 도구 출력을 샌드박스에서 처리 후 필요한 결과만 반환하여 98% 압축, 세션 지속 시간 30분→3시간으로 연장
   * [ai-design-components: Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude](https://github.com/ancoleman/ai-design-components)
     * [Claude 기반 AI 보조 개발을 위한 Full-stack 기술 스킬 모음 정리](https://digitalbourgeois.tistory.com/2682)
   * [autonomous-claude-code: Chat with Claude while it works. Get notified when it stops. Discord bridge for autonomous Claude Code sessions](https://github.com/AetherWave-Studio/autonomous-claude-code)
