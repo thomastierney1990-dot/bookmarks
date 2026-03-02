@@ -1464,6 +1464,8 @@ Artificial Intelligence
   * [인공지능 AI의 대변환, MCP 쉬운 설명 | 클로드 챗지피티 - YouTube](https://www.youtube.com/watch?v=oAxunD8k0C8)
   * [요즘 핫한 MCP는 트랄랄레로 트랄랄라같은 것임 - YouTube](https://www.youtube.com/watch?v=KZwV6dOfNuE) USB C 비유보다 이게 더 쉽단 생각
   * [AI 생태계 연결하는 USB-C 포트, MCP 알아보기 - YouTube](https://www.youtube.com/watch?v=OdwuHsXPqn4)
+  * [Model Context Protocol: The USB-C for AI: Simplifying LLM Integration - InfraCloud](https://www.infracloud.io/blogs/model-context-protocol-simplifying-llm-integration/)
+    * MCP의 클라이언트-서버 아키텍처(호스트/클라이언트/서버/데이터소스), 리소스 접근·도구 실행·프롬프트 관리 표준화, 벤더 종속성 해소 설명
   * [MCP써야 진짜 Claude다! 500% 활용 튜토리얼 (개념부터 활용까지) - YouTube](https://www.youtube.com/watch?v=fkqXQOjj8cA)
   * [이주환 - MCP가 무엇인지에 대해서는 이미 많은 전문가들께서 잘 설명해 주고 계시기에, 저는 이 agentic... | Facebook](https://www.facebook.com/JoshatSwit/posts/pfbid0F9vVgJSFDreX8aaocD3k36o2NYKwTXMwbJ3GJ2nBZhJsqJJ5mF19GaVqQPoBTnsyl)
   * [Model Context Protocol (MCP) - A Deep Dive - WWT](https://www.wwt.com/blog/model-context-protocol-mcp-a-deep-dive)
