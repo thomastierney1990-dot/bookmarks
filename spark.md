@@ -671,6 +671,9 @@
 * [Spark on Kubernetes - Gang Scheduling with YuniKorn - Cloudera Blog](https://blog.cloudera.com/spark-on-kubernetes-gang-scheduling-with-yunikorn/)
 * [Superworkflow of Graph Neural Networks with K8S and Fugue - YouTube](https://www.youtube.com/watch?v=-aEZjQiqSFA) word2vec node2vec
 * [So Long Hadoop - Running Spark On Kubernetes by Erik Schmiegelow - YouTube](https://www.youtube.com/watch?v=8bRtqDfgEGI)
+* [Balancing Cost and Reliability for Spark on Kubernetes | Notion Blog](https://www.notion.com/ko/blog/balancing-cost-and-reliability-for-spark-on-kubernetes)
+  * [Balancing Cost and Reliability for Spark | 박상길](https://www.linkedin.com/posts/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a_balancing-cost-and-reliability-for-spark-share-7434138396580777984-D-ey/)
+  * Notion과 AWS 협력으로 개발한 Spot Balancer 오픈소스. 스팟 인스턴스와 온디맨드 용량을 혼합하여 최대 90% 컴퓨팅 비용 절감
 
 # Library
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
