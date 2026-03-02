@@ -68,6 +68,9 @@ Robot
 * [Robomind – introduction to the programming](http://educationware.net/robomind-introduction-to-the-programming/)
 
 # Library
+* [Aero Hand Open: low-cost, open-source, lightweight, anthropomorphic dexterous hand](https://tetheria.github.io/aero-hand-open/)
+  * [aero-hand-open](https://github.com/TetherIA/aero-hand-open)
+  * $314/400g 미만의 오픈소스 로봇 손. 16관절 7모터 텐던 구동, 완벽한 백드라이브, 위치/토크/텐던력 센싱. 아이폰 집기~18kg 물통 들기까지 가능, 100만 사이클 신뢰성 검증
 * [FarmBot | Open-Source CNC Farming](https://farm.bot/)
   * [FarmBot - 오픈 소스 농업 로봇 | GeekNews](https://news.hada.io/topic?id=16164)
 * [foros: Failover ROS framework](https://github.com/42dot/foros)
