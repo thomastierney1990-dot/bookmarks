@@ -674,6 +674,9 @@ Business
   * 나의 품성은 내가 지향하는 사람들의 틀에 박힌 양식을 따르라. 이를 품격이라 한다
   * 나의 황금 시간은 루틴의 틀에 가두고, 나머지 시간에 우선순위를 처리하라. 이를 습관이라 한다
   * 인간은 사회적 동물이다. 인간은 사회에서 일관성으로 신뢰받고, 품격으로 인정받으며, 습관으로 성장한다
+* [To do list 써도 소용없다? 일론 머스크가 사용하는 시간 관리법 - YouTube](https://www.youtube.com/watch?v=KVNYJoIbS-c)
+  * [To do list 써도 소용없다? 일론 머스크가 사용하는 시간 관리법](https://livewiki.com/ko/content/elon-musk-time-management-7)
+  * To-do list의 결정 피로(Decision Fatigue) 문제를 Brain Dump → Big 3 → Time Boxing 구조로 해결. 머스크는 5분 단위로 하루를 설계하며, 반응 시간과 집중 시간을 구조적으로 분리. 핵심은 "다 하는 것"이 아니라 "가장 중요한 3가지에 시간을 몰아넣는 것"
 * [효율적으로 일하려면 고려해볼 4가지 포인트](https://www.linkedin.com/posts/activity-7218647553393754112-zFAN/)
   * 1) 시간 관리, 우선순위 설정 및 가치 판단을 위해 시간 추적
   * 2) 기대치와 일치하는 기여를 하고, 잘못된 기여의 예 인식
