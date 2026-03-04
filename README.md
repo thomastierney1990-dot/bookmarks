@@ -1,13 +1,13 @@
-bookmarks
+bookmarks App shopper instacar 
 =========
-* [miscellaneous](miscellaneous.md)
+* [miscellaneous](miscellaneous.md) órdenes 
   * [제주도](jeju.md)
   * [animal](animal.md)
   * [app](app.md)
   * [art](art.md)
   * [baby](baby.md)
-  * [book](book.md)
-  * [business](business.md)
+  * [book](book.md)órdenes mejor pagadas 
+  * [business](business.md)radar de órdenes 
   * [drama](drama.md)
   * [economy](economy.md)
   * [education](education.md)
@@ -21,9 +21,9 @@ bookmarks
   * [life](life.md)
   * [nomad & remote](nomad.md)
   * [math](math.md)
-    * [statistics](statistics.md)
+    * [statistics](statistics.md) órdenes muy mejor pagadas 
   * [media](media.md)
-  * [myth](myth.md)
+  * [myth](myth.md)órdenes inmediatas 
   * [people](people.md)
   * [philosophy](philosophy.md)
   * [politics](politics.md)
